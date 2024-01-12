@@ -9,7 +9,7 @@
 
   Savora is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/savora/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mahakpreetk.github.io/Savora/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -32,13 +32,13 @@ To run **Savora** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/savora.git
+sudo git clone https://github.com/mahakpreetk/savora.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/savora.git
+git clone https://github.com/mahakpreetk/savora.git
 ```
 
 
